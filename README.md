@@ -102,3 +102,5 @@ cmake --build build --config Release --target classify_image -j 8
 | Output | `[1, N]` probabilitas softmax, urutan = `labels.txt` |
 
 Jika aturan ini diubah di training, ubah juga [freshness_classifier.cpp](inference_cpp/src/freshness_classifier.cpp).
+# crosschick_apps
+Crosschick: Lightweight chicken freshness detection apps using AI Inference (Offline AI model) 
