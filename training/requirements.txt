@@ -1,0 +1,7 @@
+# Python 3.10 - 3.12
+# Versi TensorFlow HARUS sama dengan tag source TensorFlow Lite yang dipakai C++ (lihat scripts/setup_tensorflow_source.*)
+tensorflow==2.17.1
+numpy>=1.26,<2.0
+scikit-learn>=1.4
+matplotlib>=3.8
+pillow>=10.0

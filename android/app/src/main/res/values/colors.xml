@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#C62828</color>
+    <color name="fresh">#2E7D32</color>
+    <color name="medium">#EF6C00</color>
+    <color name="spoiled">#C62828</color>
+    <color name="neutral">#424242</color>
+    <color name="preview_bg">#EEEEEE</color>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CrossChick Freshness</string>
+    <string name="title">Deteksi Kesegaran Daging Ayam</string>
+    <string name="subtitle">MobileNetV4-Conv-Small R224 · Offline (TFLite C++)</string>
+    <string name="btn_gallery">Galeri</string>
+    <string name="btn_camera">Kamera</string>
+    <string name="hint_pick_image">Pilih foto daging ayam dari galeri atau kamera.</string>
+    <string name="loading_model">Memuat model…</string>
+    <string name="analyzing">Menganalisis…</string>
+    <string name="model_ready">Model siap (%1$d kelas)</string>
+    <string name="model_failed">Gagal memuat model: %1$s</string>
+    <string name="classify_failed">Gagal menganalisis gambar: %1$s</string>
+    <string name="result_confidence">Keyakinan: %1$.1f%%</string>
+    <string name="result_timing">Preprocess %1$.1f ms · Inferensi %2$.1f ms</string>
+    <string name="low_confidence">Keyakinan rendah. Ambil ulang foto dengan pencahayaan merata dan fokus pada daging.</string>
+    <string name="image_preview">Pratinjau gambar</string>
+</resources>

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+training/outputs/
+training/exported/
+training/weights/
+
+# Dataset
+dataset/
+
+# TensorFlow source & build
+third_party/tensorflow/
+third_party/stb/
+build/
+inference_cpp/build/
+
+# Android
+android/.gradle/
+android/.idea/
+android/local.properties
+android/build/
+android/app/build/
+android/app/.cxx/
+android/app/src/main/assets/*.tflite
+*.iml
